@@ -1,7 +1,7 @@
 # Hi, I'm Ash LaGrow 👋
 
-**Microsoft 365 & Systems Engineer | Identity, Security & Automation**
-USAF veteran · CompTIA CySA+, Security+, Network+, A+ · MBA
+**Microsoft 365 & Systems Engineer | Entra ID • Intune • Incident Response | PowerShell/Graph Automation**
+USAF veteran · Prior Secret clearance · CompTIA CySA+, Security+, Network+, A+ · MBA
 
 I'm a Systems & Network Engineer at a managed services provider supporting healthcare, legal and financial clients. I own Microsoft 365, Entra ID, Intune and incident response across a multi-tenant portfolio, and I build the automation that keeps it all running.
 
