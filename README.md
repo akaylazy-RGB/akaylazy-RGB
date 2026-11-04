@@ -16,6 +16,7 @@ I'm a Systems & Network Engineer at a managed services provider supporting healt
 |---|---|
 | [HIPAA Forensic IR Toolkit](https://github.com/akaylazy-RGB/hipaa-ir-toolkit) | Write-up of a ~900-line PowerShell toolkit for read-only evidence collection with SHA-256 chain of custody and HIPAA-mapped reports. Used in live incident response. |
 | [M365 Security Audit](https://github.com/akaylazy-RGB/m365-security-audit) | Write-up of a Microsoft 365 tenant security audit script, iterated through 10 versions. |
+| [Huntress + UniFi Syslog Runbook](https://github.com/akaylazy-RGB/huntress-unifi-runbook) | Write-up of a Huntress SIEM + UniFi OS syslog integration, including the modern application-grouped streams most guides miss. |
 | Home lab | Raspberry Pi 5 platform: Grafana/InfluxDB/MQTT telemetry, ADS-B aircraft tracking, Meshtastic LoRa mesh, nginx, systemd, daily ops digest. |
 
 ### Connect
